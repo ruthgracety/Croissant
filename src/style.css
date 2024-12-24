@@ -1,0 +1,11 @@
+h6 {
+   margin-right: 20px;
+   word-spacing: 20px;
+}
+
+@media (max-width: 576px) {
+  .special-color {
+    color: blue;
+    text-align: center;
+  }
+}
