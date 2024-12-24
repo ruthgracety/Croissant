@@ -4,12 +4,15 @@ h6 {
 }
 
 @media (max-width: 576px) {
+  .extra-color {
+    color: blue;
+    text-align: center;
+  }
   .special-color {
     color: blue;
     text-align: center;
   }
   .photo-mobile {
-    display: block;
-    margin: 0px auto;
+    min-width: 100%;
   }
 }
